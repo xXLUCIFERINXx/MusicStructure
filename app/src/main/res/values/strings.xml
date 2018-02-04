@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MusicStructure</string>
+    <string name="songs">songs</string>
+    <string name="artists">Artists</string>
+    <string name="albums">Albums</string>
+    <string name="genres">Genres</string>
+    <string name="todo">TODO</string>
+    <string name="songname">SongName</string>
+    <string name="artistname">ArtistName</string>
+    <string name="listview">listView</string>
+    <string name="hint">0:00</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="now_playing_activity">Now Playing Activity</string>
+</resources>
+
